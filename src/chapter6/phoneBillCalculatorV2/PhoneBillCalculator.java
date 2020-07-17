@@ -1,4 +1,4 @@
-package chapter6.phoneBillCalculator;
+package chapter6.phoneBillCalculatorV2;
 
 public class PhoneBillCalculator {
 
